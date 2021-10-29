@@ -1,2 +1,2 @@
 # vigilant-octo-umbrella
-dockerized rizin application
+dockerized rizin web application
